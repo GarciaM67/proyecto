@@ -4,3 +4,5 @@ PORT = 5000
 DEBUG = True
 
 app.run(port=PORT, debug=DEBUG)
+
+logo jeje
